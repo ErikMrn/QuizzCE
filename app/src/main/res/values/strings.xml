@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">QuizzCE</string>
+
+    <string name="p1">1. Según la CE la pena de muerte: </string>
+    <string name="tr1a">A) Los culpables de asesinatos podrán ser condenados a cadena de muerte</string>
+    <string name="tr1b">B) Queda abolida salvo lo que dispongan las leyes militares en tiempos de guerra</string>
+    <string name="tr1c">C) Queda abolida</string>
+
+
+    <string name="p2">2. En el caso de un recién nacido en el que los padres tengan distinta vecindad civil, al mismo le corresponderá la vecindad:</string>
+    <string name="tr2a">A) Del lugar del nacimiento. </string>
+    <string name="tr2b">B) De derecho común.</string>
+    <string name="tr2c">C) Que corresponda a aquél de los dos respecto del cual la filiación se determinó antes.</string>
+
+    <string name="p3">3. El nacido en un barco de la armada española, de madre apátrida:</string>
+    <string name="tr3a">A) Tiene la condición de español de origen.</string>
+    <string name="tr3b">B) Podrá adquirir la nacionalidad española por residencia al año.</string>
+    <string name="tr3c">C) Requerirá residencia de diez años para optar a la nacionalidad española.</string>
+
+    <string name="p4">4. Procede la declaración de fallecimiento de una persona física:</string>
+    <string name="tr4a">A) Transcurridos cinco años desde las últimas noticias habidas del ausente.</string>
+    <string name="tr4b">B) Cumplidos dos años, desde la expiración del año natural, de un riesgo inminente de muerte por causa de violencia contra la vida, en que una persona se hubiera encontrado sin haberse tenido con posterioridad noticias suyas.</string>
+    <string name="tr4c">C) Cumplidos tres meses, contado de fecha a fecha, en caso de siniestro sin haberse tenido noticias suyas.</string>
+
+    <string name="p5">5. Los Sefardíes originarios de España ¿Pueden obtener la nacionalidad española?</string>
+    <string name="tr5a">A) Si, mediante residencia durante un año al ser originarios de España.</string>
+    <string name="tr5b">B) Si, mediante carta de Naturaleza.</string>
+    <string name="tr5c">C) No.</string>
+
+    <string name="p6">6. De los siguientes derechos fundamentales, podrá ser suspendido cuando se acuerda la declaración del estado de excepción, en los términos previstos en la Constitución Española:</string>
+    <string name="tr6a">A) El derecho de asociación.</string>
+    <string name="tr6b">B) El derecho de sindicación.</string>
+    <string name="tr6c">C) La inviolabilidad del domicilio.</string>
+
+    <string name="p7">7.  Según el artículo 16 de la Constitución española, la libertad ideológica se:  </string>
+    <string name="tr7a">A) Garantiza.</string>
+    <string name="tr7b">B) Protege.</string>
+    <string name="tr7c">C) Reconoce.</string>
+
+    <string name="p8">8. El Defensor del Pueblo, antes de tomar posesión, debe cesar en toda situación de incompatibilidad que pudiera afectarle:</string>
+    <string name="tr8a">A) Salvo las dispensadas por la Comisión Mixta Congreso-Senado.</string>
+    <string name="tr8b">B) Al menos, quince días antes de su toma de posesión.</string>
+    <string name="tr8c">C) Dentro de los diez días siguientes a su nombramiento.</string>
+
+    <string name="p9">9. El Congreso de los Diputados se compondrá de:</string>
+    <string name="tr9a">A) Un mínimo de 300 y un máximo de 400 diputados.</string>
+    <string name="tr9b">B) Un mínimo de 350 y un máximo de 400 diputados.</string>
+    <string name="tr9c">C) Un mínimo de 300 y un máximo de 450 diputados.</string>
+
+    <string name="p10">10. Podrán ser elegidos como Diputados o Senadores:</string>
+    <string name="tr10a">A) Los componentes del Tribunal Constitucional</string>
+    <string name="tr10b">B) Los miembros de las Juntas Electorales</string>
+    <string name="tr10c">C) Los miembros de las Fuerzas y Cuerpos de Seguridad en excedencia</string>
+
+    <string name="p11">11. ¿Cuántos artículos tiene la Constitución española?:</string>
+
+    <string name="p12">12. La Constitución española posee las siguientes características:</string>
+    <string name="tr12a"> Flexible</string>
+    <string name="tr12b"> Cerrada</string>
+    <string name="tr12c"> Concisa</string>
+    <string name="tr12d"> Ambigua</string>
+
+</resources>
+
